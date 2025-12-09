@@ -1,0 +1,16 @@
+Package: com.ortiz.phonecontrol
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Ortiz
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.ortiz.phonecontrol_1.0.0_iphoneos-arm64.deb
+Size: 4758
+MD5sum: edc381a9be81752004bff8015d5025c1
+SHA1: 215dbd11ce46afcf15f7b198b7f30dd16b0dda0e
+SHA256: 1a7cdf190803cdbfefaf0a7670eafdfa8c6b61451b4954752a70fa49fc125415
+Section: Tweaks
+Description: Rootless TCP Remote Control
+Author: Ortiz
+Name: PhoneControl
+
